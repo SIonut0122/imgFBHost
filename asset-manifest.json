@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/imgFBHost/static/css/main.9d678ed0.chunk.css",
-    "main.js": "/imgFBHost/static/js/main.5a56626d.chunk.js",
-    "main.js.map": "/imgFBHost/static/js/main.5a56626d.chunk.js.map",
-    "runtime~main.js": "/imgFBHost/static/js/runtime~main.b95e7a16.js",
-    "runtime~main.js.map": "/imgFBHost/static/js/runtime~main.b95e7a16.js.map",
-    "static/js/2.78ffe05e.chunk.js": "/imgFBHost/static/js/2.78ffe05e.chunk.js",
-    "static/js/2.78ffe05e.chunk.js.map": "/imgFBHost/static/js/2.78ffe05e.chunk.js.map",
-    "index.html": "/imgFBHost/index.html",
-    "precache-manifest.f54ba7518c09205980cd6a9aef10c188.js": "/imgFBHost/precache-manifest.f54ba7518c09205980cd6a9aef10c188.js",
-    "service-worker.js": "/imgFBHost/service-worker.js",
-    "static/css/main.9d678ed0.chunk.css.map": "/imgFBHost/static/css/main.9d678ed0.chunk.css.map",
-    "static/media/logo_img.jpg": "/imgFBHost/static/media/logo_img.904cb526.jpg"
+    "main.css": "/imgfbhost/static/css/main.9d678ed0.chunk.css",
+    "main.js": "/imgfbhost/static/js/main.9797deac.chunk.js",
+    "main.js.map": "/imgfbhost/static/js/main.9797deac.chunk.js.map",
+    "runtime~main.js": "/imgfbhost/static/js/runtime~main.ddc87b7d.js",
+    "runtime~main.js.map": "/imgfbhost/static/js/runtime~main.ddc87b7d.js.map",
+    "static/js/2.1da0b733.chunk.js": "/imgfbhost/static/js/2.1da0b733.chunk.js",
+    "static/js/2.1da0b733.chunk.js.map": "/imgfbhost/static/js/2.1da0b733.chunk.js.map",
+    "index.html": "/imgfbhost/index.html",
+    "precache-manifest.5d35546e9816f116122b4063aed29800.js": "/imgfbhost/precache-manifest.5d35546e9816f116122b4063aed29800.js",
+    "service-worker.js": "/imgfbhost/service-worker.js",
+    "static/css/main.9d678ed0.chunk.css.map": "/imgfbhost/static/css/main.9d678ed0.chunk.css.map",
+    "static/media/logo_img.jpg": "/imgfbhost/static/media/logo_img.904cb526.jpg"
   }
 }
