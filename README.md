@@ -1,6 +1,6 @@
 ## ImgFBHost - Host your images
 
-![commSectionImage](http://www.ionutdev.com/sionut0122/imgfbhost/static/media/imgfbhost.png)
+![imgfbhost](http://www.ionutdev.com/sionut0122/imgfbhost/static/media/imgfbhost.png)
 ## How to use
 
 This app  was built to allows you to host images for free.
@@ -12,7 +12,7 @@ This app  was built to allows you to host images for free.
 
 ## Test the app:
 
-https://sionut0122.github.io/imgFBHost/
+https://sionut0122.github.io/imgfbhost/
 
 ## Built with:
 
