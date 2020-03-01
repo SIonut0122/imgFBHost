@@ -1,0 +1,119 @@
+@media screen and (max-width: 500px) {
+  .about_div span span {
+    margin-left: 3px !important; } }
+
+.navbar_container {
+  display: block;
+  height: 50px; }
+
+.about_div {
+  position: relative;
+  width: 100px;
+  height: 30px;
+  display: block;
+  font-family: 'Yrsa', serif;
+  font-size: 20px;
+  padding-left: 10px;
+  margin-top: 5px; }
+
+.about_div .about_button:hover {
+  color: #2E6EFF;
+  cursor: pointer; }
+
+.about_div .sub_menu:hover {
+  color: #2E6EFF;
+  cursor: pointer; }
+
+.about_menu {
+  position: absolute;
+  top: 50px;
+  left: 15px;
+  width: 200px;
+  min-height: 100px;
+  display: none;
+  padding-bottom: 20px;
+  background-color: white;
+  -webkit-box-shadow: 1px 0 6px 0 black;
+  box-shadow: 1px 0 6px 0 black;
+  font-size: 19px; }
+
+.about_menu:before {
+  content: '';
+  position: absolute;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  width: 20px;
+  height: 20px;
+  top: -5px;
+  right: 160px;
+  z-index: -1;
+  -webkit-box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.75); }
+
+.about_menu .sub_menu {
+  margin: 0;
+  position: relative;
+  height: 30px;
+  padding-top: 3px;
+  display: inline-table; }
+
+.about_menu .sub_menu:hover {
+  background-color: #2E6EFF;
+  color: white; }
+
+.about_menu .sub_menu_terms {
+  margin-top: 10px;
+  border-bottom: 1px solid #D8D8D8; }
+
+.contact_sub_span {
+  font-size: 14px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin: 0;
+  top: 10px;
+  position: relative; }
+
+.navbar_logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  position: absolute;
+  width: 180px;
+  height: 45px;
+  left: 155px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -ms-user-select: none; }
+
+.logo_img {
+  display: block;
+  height: 30px;
+  width: 45px;
+  margin-top: 10px;
+  opacity: 0.85; }
+
+.logo_img img {
+  display: inline;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  margin-top: -5px; }
+
+.navbar_logo .logo_txt {
+  display: inline;
+  margin-top: 4px;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Gloria Hallelujah', cursive;
+  z-index: 2; }
