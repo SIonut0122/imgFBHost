@@ -2,7 +2,7 @@
 
 Source code: https://github.com/SIonut0122/imgfbhost/tree/gh-pages/imgFBHost
 
-![imgfbhost](http://www.ionutdev.com/sionut0122/imgfbhost/static/media/imgfbhost.png)
+![imgfbhost](https://github.com/SIonut0122/imgfbhost/tree/gh-pages/static/media/imgfbhost.png)
 ## How to use
 
 This app  was built to allows you to host images for free.
