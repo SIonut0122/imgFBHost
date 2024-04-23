@@ -6,7 +6,7 @@
   "dependencies": {
     "core-js": "^3.2.1",
     "firebase": "^6.6.1",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "mongodb": "^3.3.2",
     "mongoose": "^5.7.1",
     "react": "^16.9.0",
